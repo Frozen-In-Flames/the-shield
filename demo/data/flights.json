@@ -1,0 +1,25 @@
+{
+  "source": "nation airspace registry",
+  "flights": {
+    "FL-101": {
+      "flight_id": "FL-101",
+      "origin": "AAA",
+      "destination": "BBB",
+      "band": "high",
+      "window_start": "2026-10-16T08:00",
+      "window_end": "2026-10-16T10:00",
+      "filed_at": "2026-10-15T20:00:22.358552+00:00",
+      "source": "nation airspace registry"
+    },
+    "FL-102": {
+      "flight_id": "FL-102",
+      "origin": "CCC",
+      "destination": "DDD",
+      "band": "high",
+      "window_start": "2026-10-16T09:00",
+      "window_end": "2026-10-16T11:00",
+      "filed_at": "2026-10-15T20:00:22.409390+00:00",
+      "source": "nation airspace registry"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source": "nation environmental registry",
+  "readings": [
+    {
+      "station_id": "RIVER-1",
+      "metric": "lead",
+      "value": 22.0,
+      "unit": "ppb",
+      "limit": 15.0,
+      "breach": true,
+      "timestamp": "2026-10-15T20:00:22.541662+00:00",
+      "recorded_at": "2026-10-15T20:00:22.541686+00:00",
+      "source": "nation environmental registry"
+    },
+    {
+      "station_id": "AIR-1",
+      "metric": "pm25",
+      "value": 20.0,
+      "unit": "ug/m3",
+      "limit": 35.0,
+      "breach": false,
+      "timestamp": "2026-10-15T20:00:22.590571+00:00",
+      "recorded_at": "2026-10-15T20:00:22.590591+00:00",
+      "source": "nation environmental registry"
+    }
+  ]
+}

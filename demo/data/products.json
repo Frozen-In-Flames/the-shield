@@ -1,0 +1,36 @@
+{
+  "source": "nation product safety registry",
+  "products": {
+    "P-001": {
+      "product_id": "P-001",
+      "name": "PainAway",
+      "category": "drug",
+      "maker": "Acme Pharma",
+      "registered_at": "2026-10-15T20:00:22.087678+00:00",
+      "source": "nation product safety registry"
+    }
+  },
+  "adverse_events": [
+    {
+      "product_id": "P-001",
+      "severity": "serious",
+      "description": "rash reports",
+      "reporter": "Clinic A",
+      "reported_at": "2026-10-15T20:00:22.139916+00:00",
+      "source": "nation product safety registry"
+    }
+  ],
+  "recalls": [
+    {
+      "recall_id": "R-1",
+      "product_id": "P-001",
+      "reason": "contamination in lot 42",
+      "scope": "lot 42",
+      "status": "active",
+      "issued_at": "2026-10-15T20:00:22.240690+00:00",
+      "resolved_at": null,
+      "source": "nation product safety registry"
+    }
+  ],
+  "recall_seq": 1
+}
